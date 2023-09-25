@@ -183,6 +183,8 @@ first div in the grid  and place it in the grid. */
 
 .text-block {
   align-self: center;
+  max-height: 250px;
+  overflow: scroll;
 }
 
 /* Add your media query here */
